@@ -1,1 +1,1 @@
-# Face_Recognition_In_JavaScript_For_Images
+# Face Recognition In JavaScript For Images
